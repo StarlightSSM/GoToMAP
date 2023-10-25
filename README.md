@@ -3,8 +3,8 @@
 
 
 # 1. 로그인 화면, 메인 화면
-<img width="300" height="600" src="./최종UI모음/메인/로그인화면.png"></img>
-<img width="300" height="600" src="./최종UI모음/메인/메인지도화면.png"></img>
+<img width="400" height="800" src="./최종UI모음/메인/로그인화면.png"></img>
+<img width="400" height="800" src="./최종UI모음/메인/메인지도화면.png"></img>
 
 # 2. 검색창에 고객 검색, 추가된 그룹이나 고객이 존재하지 않는 경우 모달창, GPS 기능 킬때 확인 모달창
 <img width="400" height="800" src="./최종UI모음/고객리스트보기/고객 리스트에서 GPS기능이 꺼져있는 경우.png"></img>
