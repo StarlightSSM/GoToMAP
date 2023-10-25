@@ -1,6 +1,6 @@
 # 배포 시작 이미지
 ## 대표 배너 이미지
-<img width="1024" height="500" src="./앱스토어/1번째사진.png"></img>
+<img width="1024" height="400" src="./앱스토어/1번째사진.png"></img>
 
 ## 1번쩨 사진
 <img width="500" height="1000" src="./앱스토어/2-1번째사진.png"></img>
